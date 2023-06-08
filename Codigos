@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Titulo de tu pagina </title>
+  </head>
+  <body>
+    <h1> Encabezado de tu pagina nivel 1 </h1>
+    <h2> Encabezado de tu pagina nivel 2 </h2>
+     <h3> Encabezado de tu pagina nivel 3 </h3>
+     <h4> Encabezado de tu pagina nivel 4 </h4>
+     <h5> Encabezado de tu pagina nivel 5 </h5>
+     <h6> Encabezado de tu pagina nivel 6 </h6>
+    <p> Y YAAAA NOSSSS VERANNNN PISTEARRRRRR </p>
+    <ul>
+      <li> Elemento de nivel 1
+        <ul>
+          <li> Elemento de nivel 2
+            -<ul>
+            <li> Elemento de nivel 3
+              <ul>
+                <li> 
+                  <a> 
+                    <img src="https://historia.nationalgeographic.com.es/medio/2019/05/03/adolf-hitler_004e6872_1280x720.jpg"/>
+  </body>
+</html>
